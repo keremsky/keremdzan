@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @keremdzan
+- 👋 Hi, I’m @keremsky
 - 👀 I’m interested in ML
 - 🌱 I’m currently learning Python
 
